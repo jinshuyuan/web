@@ -12,11 +12,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../jinshuyuan/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="60" column="29" lean-forward="true" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+            <state relative-caret-position="266">
+              <caret line="65" column="67" selection-start-line="65" selection-start-column="67" selection-end-line="65" selection-end-column="70" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="book_langchaozhidian.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../jinshuyuan/article/book_langchaozhidian.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="58" column="16" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -36,8 +45,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/article/1.html" />
-        <option value="$PROJECT_DIR$/article/motivation.html" />
         <option value="$PROJECT_DIR$/article/learn_more.html" />
         <option value="$PROJECT_DIR$/article/book_python.html" />
         <option value="$PROJECT_DIR$/article/motivation2.html" />
@@ -81,11 +88,14 @@
         <option value="$PROJECT_DIR$/article/motivation_research.html" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/article/break into wallstreet.html" />
-        <option value="$PROJECT_DIR$/../jinshuyuan/article/book_langchaozhidian.html" />
-        <option value="$PROJECT_DIR$/../jinshuyuan/article/book_python.html" />
+        <option value="$PROJECT_DIR$/article/book_langchaozhidian.html" />
+        <option value="$PROJECT_DIR$/article/book_python.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/article/break into wallstreet.html" />
+        <option value="$PROJECT_DIR$/article/400questions.html" />
         <option value="$PROJECT_DIR$/../jinshuyuan/index.html" />
-        <option value="$PROJECT_DIR$/../jinshuyuan/article/break into wallstreet.html" />
-        <option value="$PROJECT_DIR$/../jinshuyuan/article/400questions.html" />
+        <option value="$PROJECT_DIR$/../jinshuyuan/article/book_tengxunzhuan.html" />
+        <option value="$PROJECT_DIR$/../jinshuyuan/article/book_billioncustomers.html" />
       </list>
     </option>
   </component>
@@ -110,8 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -129,6 +137,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -222,11 +232,12 @@
       <workItem from="1558671084043" duration="359000" />
       <workItem from="1561892937768" duration="844000" />
       <workItem from="1562117567886" duration="1368000" />
+      <workItem from="1563640259806" duration="2362000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49874000" />
+    <option name="totallyTimeSpent" value="52236000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -236,7 +247,7 @@
       <window_info anchor="right" id="Palette&#9;" order="1" />
       <window_info id="Image Layers" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="2" side_tool="true" visible="true" weight="0.32879046" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="3" />
@@ -244,7 +255,7 @@
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.24980484" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.24980484" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
@@ -267,6 +278,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../jinshuyuan/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="60" column="29" lean-forward="true" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/../jinshuyuan/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2356">
@@ -444,13 +462,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../jinshuyuan/article/book_langchaozhidian.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="37" column="37" lean-forward="true" selection-start-line="37" selection-start-column="37" selection-end-line="37" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../jinshuyuan/article/book_python.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
@@ -474,8 +485,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../jinshuyuan/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="60" column="29" lean-forward="true" selection-start-line="60" selection-start-column="29" selection-end-line="60" selection-end-column="29" />
+        <state relative-caret-position="266">
+          <caret line="65" column="67" selection-start-line="65" selection-start-column="67" selection-end-line="65" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jinshuyuan/article/book_tengxunzhuan.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jinshuyuan/article/book_billioncustomers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../jinshuyuan/article/book_langchaozhidian.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="58" column="16" lean-forward="true" selection-start-line="58" selection-start-column="16" selection-end-line="58" selection-end-column="16" />
         </state>
       </provider>
     </entry>
